@@ -4,7 +4,8 @@
     .
     ├── diffusers                   # diffusion models
     │   ├── training_example.ipynb        # basics of huggingface's diffusers 
-    ├── (drop) MoMOTest.ipynb              # Invariance-Driven Unsupervised Video Motion Retargeting
+    ├── (drop) MoMOTest.ipynb             # Invariance-Driven Unsupervised Video Motion Retargeting
+    ├── (drop) splice.ipynb               # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
     └── README.md                   # this file
 
 
@@ -12,4 +13,10 @@
    - TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
 <p align='center'>  
   <img src='https://yzhq97.github.io/assets/transmomo/dance.gif' width='480'/>
+</p>
+
+- splice.ipynb : https://github.com/omerbt/Splice
+   - splice: Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
+<p align='center'>  
+img src='https://github.com/omerbt/Splice/blob/master/imgs/teaser.png'  width='480'/>
 </p>
