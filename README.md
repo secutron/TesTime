@@ -20,9 +20,11 @@
 <p align='center'>  
   <img src='https://github.com/omerbt/Splice/blob/master/imgs/teaser.png'  width='640'/>
 </p>
-
-<img src='https://github.com/secutron/TesTime/assets/1733748/5cbd34e9-933f-4101-aac0-4cbade73cd59' width="200"/>
-<img src='https://github.com/secutron/TesTime/assets/1733748/001e371a-a48d-4436-b56f-dc4897f97642)' width="200"/>
-<img src='https://github.com/secutron/TesTime/assets/1733748/a673fd8e-20a2-447b-ac70-49f67eb38a1f)' width="200"/>
+   - 이론과 실제
+<p align='center'>   
+    <img src='https://github.com/secutron/TesTime/assets/1733748/5cbd34e9-933f-4101-aac0-4cbade73cd59' width="200"/>
+    <img src='https://github.com/secutron/TesTime/assets/1733748/001e371a-a48d-4436-b56f-dc4897f97642)' width="200"/>
+    <img src='https://github.com/secutron/TesTime/assets/1733748/a673fd8e-20a2-447b-ac70-49f67eb38a1f)' width="200"/>
+</p>
 
 
