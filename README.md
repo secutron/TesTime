@@ -9,7 +9,7 @@
 
 
 - MoMOTest.ipynb : https://github.com/yzhq97/transmomo.pytorch
-- TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
+   - TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting
 <p align='center'>  
   <img src='https://yzhq97.github.io/assets/transmomo/dance.gif' width='480'/>
 </p>
