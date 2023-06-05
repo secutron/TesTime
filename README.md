@@ -18,5 +18,5 @@
 - splice.ipynb : https://github.com/omerbt/Splice
    - splice: Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
 <p align='center'>  
-  <img src='https://github.com/omerbt/Splice/blob/master/imgs/teaser.png'  width='480'/>
+  <img src='https://github.com/omerbt/Splice/blob/master/imgs/teaser.png'  width='640'/>
 </p>
