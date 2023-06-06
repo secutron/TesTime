@@ -2,12 +2,12 @@
 > collection of codes for quick test
 
     .
-    ├── diffusers                   # diffusion models
-    │   ├── training_example.ipynb        # basics of huggingface's diffusers 
-    ├── (drop) MoMOTest.ipynb             # Invariance-Driven Unsupervised Video Motion Retargeting
-    ├── (drop) splice.ipynb               # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
-    ├── test_github_stored_image.ipynb    # github에 저장한 이미지에 대한 접근이실패하는이유
-    └── README.md                   # this file
+    ├── diffusers                       # diffusion models
+    │   ├── training_example.ipynb          # basics of huggingface's diffusers 
+    ├── (drop) MoMOTest.ipynb           # Invariance-Driven Unsupervised Video Motion Retargeting
+    ├── (drop) splice.ipynb             # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
+    ├── test_github_stored_image.ipynb  # github에 저장한 이미지에 대한 접근이실패하는이유
+    └── README.md                       # this file
 
 
 - MoMOTest.ipynb : https://github.com/yzhq97/transmomo.pytorch
