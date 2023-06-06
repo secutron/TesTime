@@ -31,8 +31,7 @@
 
 - test_controlnet_aux.ipynb : https://github.com/patrickvonplaten/controlnet_aux
    - controlnet_aux: PyPi package for ControlNet Annotators
-<p align='center'>  
-  <img src='https://github.com/omerbt/Splice/blob/master/imgs/teaser.png'  width='640'/>
+   - hed 예시
 </p>
 <p align='center'>   
     <img src='https://github.com/secutron/TesTime/assets/1733748/c245e542-1ac0-4fde-b827-20abd60ffad8' width="200"/>
