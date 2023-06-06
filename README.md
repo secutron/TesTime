@@ -15,7 +15,7 @@
 - diffusers/test_controlnet_aux.ipynb : https://github.com/patrickvonplaten/controlnet_aux
    - controlnet_aux: PyPi package for ControlNet Annotators
    - hed 예시
-   - 설명: https://blog.naver.com/secutron/223121423760
+   - 설명: https://blog.naver.com/secutron/223121353455
 </p>
 <p align='center'>   
     <img src='https://github.com/secutron/TesTime/assets/1733748/c245e542-1ac0-4fde-b827-20abd60ffad8' width="200"/>
