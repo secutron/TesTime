@@ -15,6 +15,7 @@
 - diffusers/test_controlnet_aux.ipynb : https://github.com/patrickvonplaten/controlnet_aux
    - controlnet_aux: PyPi package for ControlNet Annotators
    - hed 예시
+   - 설명: https://blog.naver.com/secutron/223121423760
 </p>
 <p align='center'>   
     <img src='https://github.com/secutron/TesTime/assets/1733748/c245e542-1ac0-4fde-b827-20abd60ffad8' width="200"/>
@@ -23,7 +24,7 @@
 
 - diffusers/test_controlnet.ipynb : https://github.com/lllyasviel/ControlNet
    - controlnet: "Adding Conditional Control to Text-to-Image Diffusion Models"
-
+   - 설명: https://blog.naver.com/secutron/223121423760
 </p>
 <p align='center'>   
     <img src='https://github.com/secutron/TesTime/assets/1733748/9f5f20e3-dd61-41e9-8076-191a6d6f4e37' width="200"/>
