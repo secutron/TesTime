@@ -4,6 +4,7 @@
     .
     ├── diffusers                       # diffusion models
     │   ├── test_controlnet_aux.ipynb       # test of 'controlnet_aux' PyPi package for ControlNet Annotators 
+    │   ├── test_controlnet.ipynb           # test of 'controlnet' stable diffusion 
     │   ├── training_example.ipynb          # basics of huggingface's diffusers 
     ├── (drop) MoMOTest.ipynb           # Invariance-Driven Unsupervised Video Motion Retargeting
     ├── (drop) splice.ipynb             # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
@@ -18,6 +19,15 @@
 <p align='center'>   
     <img src='https://github.com/secutron/TesTime/assets/1733748/c245e542-1ac0-4fde-b827-20abd60ffad8' width="200"/>
     <img src='https://github.com/secutron/TesTime/assets/1733748/f8f0b6bd-8f7c-419d-aab6-f0db5c275c5f' width="200"/>
+</p>
+
+- diffusers/test_controlnet.ipynb : https://github.com/lllyasviel/ControlNet
+   - controlnet: "Adding Conditional Control to Text-to-Image Diffusion Models"
+
+</p>
+<p align='center'>   
+    <img src='https://github.com/secutron/TesTime/assets/1733748/9f5f20e3-dd61-41e9-8076-191a6d6f4e37' width="200"/>
+    <img src='https://github.com/secutron/TesTime/assets/1733748/ee6d6e58-d41b-44f9-86c3-fa7105224da8' width="400"/>
 </p>
 
 - MoMOTest.ipynb : https://github.com/yzhq97/transmomo.pytorch
