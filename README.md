@@ -28,4 +28,8 @@
 </p>
 
 
-https://github.com/secutron/TesTime/blob/main/bori.jpg
+
+<p align='center'>   
+    <img src='https://github.com/secutron/TesTime/assets/1733748/92de9b39-b000-425b-b008-bd2e09db782f' width="400"/>
+</p>
+
