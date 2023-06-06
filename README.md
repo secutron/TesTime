@@ -1,4 +1,4 @@
-# TesTime
+# [KOR] TesTime
 > collection of codes for quick test
 
     .
@@ -6,6 +6,7 @@
     │   ├── training_example.ipynb        # basics of huggingface's diffusers 
     ├── (drop) MoMOTest.ipynb             # Invariance-Driven Unsupervised Video Motion Retargeting
     ├── (drop) splice.ipynb               # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
+    ├── test_github_stored_image.ipynb    # github에 저장한 이미지에 대한 접근이실패하는이유
     └── README.md                   # this file
 
 
@@ -28,8 +29,4 @@
 </p>
 
 
-
-<p align='center'>   
-    <img src='https://github.com/secutron/TesTime/assets/1733748/92de9b39-b000-425b-b008-bd2e09db782f' width="400"/>
-</p>
 
