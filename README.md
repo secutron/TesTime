@@ -1,5 +1,5 @@
 # [KOR] TesTime
-> collection of codes for quick test
+> collection of codes for quick testing
 
     .
     ├── basic_cv                        # 기본적인 컴퓨터비전 테스트용 colab 파일들  
