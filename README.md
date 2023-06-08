@@ -8,8 +8,8 @@
     +   ├── readme.md                       # 샘플 데이터에 대한 출처, 라이선스 등에 대한 설명 
     +   ├── sample_cctv.mp4                 # AI Hub에서 제공 cctv 관련 샘플 데이터의 크기 축소본 
     ├── diffusers                       # 허깅페이스 diffusers 관련
-    +   ├── 01_guideline.ipynb              # diffuser 기본 파이프라인 사용법 및 모델과 스케쥴러 세분화 
-    +   ├── 02_guideline.ipynb              # unet, vae 등으로 더욱 세분화 
+    +   ├── 01_guideline.ipynb              # 기본 사용법 01: diffuser 기본 파이프라인 그리고 모델과 스케쥴러로 세분화 
+    +   ├── 02_guideline.ipynb              # 기본 사용법 02: unet, vae 등으로 더욱 세분화 
     +   ├── test_controlnet_aux.ipynb       # test of 'controlnet_aux' PyPi package for ControlNet Annotators 
     +   ├── test_controlnet.ipynb           # test of 'controlnet' stable diffusion 
     +   ├── training_example.ipynb          # basics of huggingface's diffusers 
