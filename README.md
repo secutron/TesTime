@@ -11,6 +11,7 @@
     ├── (drop) MoMOTest.ipynb           # Invariance-Driven Unsupervised Video Motion Retargeting
     ├── (drop) splice.ipynb             # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
     ├── test_github_stored_image.ipynb  # github에 저장한 이미지에 대한 접근이 실패하는 이유 설명
+    ├── test_github_stored_video.ipynb  # github에 저장한 비디오에 대한 접근이 실패하는 이유 설명
     └── README.md                       # this file
 
 - diffusers/test_controlnet_aux.ipynb : https://github.com/patrickvonplaten/controlnet_aux
