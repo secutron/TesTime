@@ -2,14 +2,15 @@
 > collection of codes for quick test
 
     .
-    ├── diffusers                       # diffusion models
-    │   ├── test_controlnet_aux.ipynb       # test of 'controlnet_aux' PyPi package for ControlNet Annotators 
-    │   ├── test_controlnet.ipynb           # test of 'controlnet' stable diffusion 
-    │   ├── training_example.ipynb          # basics of huggingface's diffusers 
+    ├── basic_cv                        # 기본적인 컴퓨터비전 테스트용 colab 파일들  
+    ├── data                            # 테스트용 샘플 데이터
+    ├── diffusers                       # 허깅페이스 diffusers 관련
+    +   ├── test_controlnet_aux.ipynb       # test of 'controlnet_aux' PyPi package for ControlNet Annotators 
+    +   ├── test_controlnet.ipynb           # test of 'controlnet' stable diffusion 
+    +   ├── training_example.ipynb          # basics of huggingface's diffusers 
     ├── (drop) MoMOTest.ipynb           # Invariance-Driven Unsupervised Video Motion Retargeting
     ├── (drop) splice.ipynb             # Splicing ViT Features for Semantic Appearance Transfer (CVPR 2022 - Oral)
-    ├── test_controlnet_aux.ipynb       # test 'controlnet_aux' PyPi package for ControlNet Annotators
-    ├── test_github_stored_image.ipynb  # github에 저장한 이미지에 대한 접근이실패하는이유
+    ├── test_github_stored_image.ipynb  # github에 저장한 이미지에 대한 접근이 실패하는 이유 설명
     └── README.md                       # this file
 
 - diffusers/test_controlnet_aux.ipynb : https://github.com/patrickvonplaten/controlnet_aux
