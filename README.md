@@ -6,7 +6,7 @@
     +   ├── test_median_bground.ipynb       # cctv와 같은 고정 시야 영상에서 median을 이용해 배경 이미지 추출 
     ├── data                            # 테스트용 샘플 데이터
     +   ├── readme.md                       # 샘플 데이터에 대한 출처, 라이선스 등에 대한 설명 
-    +   ├── sample_cctv.mp4                 # AI Hub에서 제공하는 샘플 데이터에 대한 크기 축소본 
+    +   ├── sample_cctv.mp4                 # AI Hub에서 제공 cctv 관련 샘플 데이터의 크기 축소본 
     ├── diffusers                       # 허깅페이스 diffusers 관련
     +   ├── test_controlnet_aux.ipynb       # test of 'controlnet_aux' PyPi package for ControlNet Annotators 
     +   ├── test_controlnet.ipynb           # test of 'controlnet' stable diffusion 
